@@ -2,8 +2,8 @@
 
 
 - 🔭 somente estudando
-- 🌱 estudando java e javascript
-- 😄 pronomes: ela/dela
+- 🌱 estudando nova linguagem 
+- 😄 
 
 <div>
   <a href="https://github.com/NagylaFr">
